@@ -2,7 +2,9 @@
 
 ## Notes
 
-This is a bare bones example to focus just on the Auth0 authentication
+This is a bare bones example to focus just on the Auth0 authentication.
+
+A config.js needs to be created. An example config.js is included in the src/ directory.
 
 ## Available Scripts
 
